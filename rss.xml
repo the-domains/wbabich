@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wbabich]]></title>
-        <description><![CDATA[wbabich]]></description>
+        <title><![CDATA[Walker Babich]]></title>
+        <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 18:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 18:15:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/178c367f-5726-4c62-9f6f-de73290f6c00.JPG">]]></description>
+            <link>https://thegrid.ai/wbabich/4d34dcb2-542e-4bf7-abaa-afcc16ebd62c/index.html</link>
+            <guid isPermaLink="false">4d34dcb2-542e-4bf7-abaa-afcc16ebd62c</guid>
+            <pubDate>Mon, 22 Feb 2016 18:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dce4fe9-b66a-44fd-bee6-685d6d8da9c2.JPG">]]></description>
