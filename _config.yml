@@ -1,4 +1,4 @@
-name: wbabich
+name: Walker Babich
 favicon: null
 layout_spectrum: 0.7706458049360663
 typography_spectrum: 0.26983035495504737
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.657068244414404
+  brandStrength: 0
   lightness: 0.5091433881316334
   saturation: 0.6986942847725004
   rhythmicContrast: 0.20734512526541948
