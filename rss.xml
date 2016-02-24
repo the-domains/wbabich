@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:56:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f92d4f-03a8-48cb-bbda-8f5127b2c939.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/a3194798-c53b-404b-92a3-b0cd34c5ec59/index.html</link>
+            <guid isPermaLink="false">a3194798-c53b-404b-92a3-b0cd34c5ec59</guid>
+            <pubDate>Wed, 24 Feb 2016 00:54:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c32d0f2b-322a-4218-943e-b59c96a3008b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wbabich/2010b8e9-abe7-4f71-a95d-68c2e8d1e006/index.html</link>
             <guid isPermaLink="false">2010b8e9-abe7-4f71-a95d-68c2e8d1e006</guid>
             <pubDate>Wed, 24 Feb 2016 00:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heading uptown. Muscat.]]></title>
-            <description><![CDATA[<article><h1>Heading uptown. Muscat.</h1><p>Muscat, Oman. November, 2012. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23dc1f04bed53500b4b7a9003049d0e67eccbea6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wbabich/17e2e09e-42da-4cfe-8793-f22412535c3f/index.html</link>
-            <guid isPermaLink="false">17e2e09e-42da-4cfe-8793-f22412535c3f</guid>
-            <pubDate>Wed, 24 Feb 2016 00:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
