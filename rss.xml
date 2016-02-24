@@ -4,8 +4,22 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 23:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 23:03:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d175fbb-bf79-4cf2-a7cf-3cbcf42b4a31.JPG">]]></description>
+            <link>https://thegrid.ai/wbabich/348a990b-25cd-4463-9e43-d4d5d9ee351f/index.html</link>
+            <guid isPermaLink="false">348a990b-25cd-4463-9e43-d4d5d9ee351f</guid>
+            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b00e3fa-eb45-4cb7-8f35-f6100854926a.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/8558aa49-5ac5-44f9-94d7-5b2623c2d917/index.html</link>
+            <guid isPermaLink="false">8558aa49-5ac5-44f9-94d7-5b2623c2d917</guid>
+            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e1cc5e-4bda-42cf-afc4-a90f51197654.jpg">]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a955408c-505b-47d2-9dbf-4c65eb41ca30.JPG">]]></description>
             <link>https://thegrid.ai/wbabich/fc853f7d-3a28-4e81-977b-424f66d9c300/index.html</link>
             <guid isPermaLink="false">fc853f7d-3a28-4e81-977b-424f66d9c300</guid>
-            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94c934a-fdc1-4359-bff2-02d516e29cf3.JPG" alt="" title="">]]></description>
-            <link>https://thegrid.ai/wbabich/28e6b989-ddf4-478c-ac01-bd8d8a087972/index.html</link>
-            <guid isPermaLink="false">28e6b989-ddf4-478c-ac01-bd8d8a087972</guid>
-            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Burj]]></title>
-            <description><![CDATA[<article><h1>The Burj</h1><p>Buildings in Dubai. 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e820dbe259a278c226f17f1bea0bd35d0bf4cd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wbabich/b5921aed-2612-4f01-aab8-d54147dd69cc/index.html</link>
-            <guid isPermaLink="false">b5921aed-2612-4f01-aab8-d54147dd69cc</guid>
             <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
         </item>
     </channel>
