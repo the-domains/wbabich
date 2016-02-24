@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 22:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 22:57:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heading uptown. Muscat.]]></title>
+            <description><![CDATA[<article><h1>Heading uptown. Muscat.</h1><p>Muscat, Oman. November, 2012. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23dc1f04bed53500b4b7a9003049d0e67eccbea6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wbabich/17e2e09e-42da-4cfe-8793-f22412535c3f/index.html</link>
+            <guid isPermaLink="false">17e2e09e-42da-4cfe-8793-f22412535c3f</guid>
+            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a4c280f-8549-4b17-a638-4c35778a34fd.JPG">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3590fdc8-aeda-426d-b132-839d005789dd.jpg">]]></description>
             <link>https://thegrid.ai/wbabich/a685afa3-26cf-4fc5-a1d3-c428e59e84bd/index.html</link>
             <guid isPermaLink="false">a685afa3-26cf-4fc5-a1d3-c428e59e84bd</guid>
-            <pubDate>Wed, 24 Feb 2016 22:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e42b0512-ebf8-4548-9980-9193c65658e0.JPG">]]></description>
-            <link>https://thegrid.ai/wbabich/361b756b-4238-4ec3-b640-5775f6baf45b/index.html</link>
-            <guid isPermaLink="false">361b756b-4238-4ec3-b640-5775f6baf45b</guid>
             <pubDate>Wed, 24 Feb 2016 22:38:58 GMT</pubDate>
         </item>
     </channel>
