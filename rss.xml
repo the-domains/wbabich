@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 23:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:00:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Delhi, India. October, 2012.]]></title>
+            <description><![CDATA[<article><h1>New Delhi, India. October, 2012.</h1><p>Traveling in India. October, 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08e9571422d52d3b5b2111dd3c91f74f585a851f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wbabich/90c67de9-7b3b-404b-8df7-cee9e1ea4b74/index.html</link>
+            <guid isPermaLink="false">90c67de9-7b3b-404b-8df7-cee9e1ea4b74</guid>
+            <pubDate>Wed, 24 Feb 2016 00:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7164fa5-4ab7-4998-9b8b-f289c2763e9a.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wbabich/445e36d3-0da0-48d6-9780-69221cfffba3/index.html</link>
             <guid isPermaLink="false">445e36d3-0da0-48d6-9780-69221cfffba3</guid>
             <pubDate>Mon, 22 Feb 2016 22:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94c934a-fdc1-4359-bff2-02d516e29cf3.JPG" alt="" title="">]]></description>
-            <link>https://thegrid.ai/wbabich/28e6b989-ddf4-478c-ac01-bd8d8a087972/index.html</link>
-            <guid isPermaLink="false">28e6b989-ddf4-478c-ac01-bd8d8a087972</guid>
-            <pubDate>Mon, 22 Feb 2016 22:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
