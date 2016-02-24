@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:16:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1715641f-38de-4135-8d48-d2f62772cbcf.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/d0869547-b7dd-4985-a054-278b41c5b145/index.html</link>
+            <guid isPermaLink="false">d0869547-b7dd-4985-a054-278b41c5b145</guid>
+            <pubDate>Wed, 24 Feb 2016 00:16:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Al Qasba, Sharjah.]]></title>
             <description><![CDATA[<article><h1>Al Qasba, Sharjah.</h1><p>United Arab Emirates. Fall, 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d8516230da4952a51ed86b4085a397bbbe8f10.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wbabich/1757c7d7-c829-42dc-bab7-817bd229b8f2/index.html</link>
             <guid isPermaLink="false">1757c7d7-c829-42dc-bab7-817bd229b8f2</guid>
             <pubDate>Mon, 22 Feb 2016 22:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a955408c-505b-47d2-9dbf-4c65eb41ca30.JPG">]]></description>
-            <link>https://thegrid.ai/wbabich/fc853f7d-3a28-4e81-977b-424f66d9c300/index.html</link>
-            <guid isPermaLink="false">fc853f7d-3a28-4e81-977b-424f66d9c300</guid>
-            <pubDate>Mon, 22 Feb 2016 22:52:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
