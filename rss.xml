@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:56:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 00:58:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9282e1d2-864c-40f1-875a-880fc8991be3.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/db9200ca-a376-49b4-ae76-b8bdff885597/index.html</link>
+            <guid isPermaLink="false">db9200ca-a376-49b4-ae76-b8bdff885597</guid>
+            <pubDate>Wed, 24 Feb 2016 00:57:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f92d4f-03a8-48cb-bbda-8f5127b2c939.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wbabich/d0869547-b7dd-4985-a054-278b41c5b145/index.html</link>
             <guid isPermaLink="false">d0869547-b7dd-4985-a054-278b41c5b145</guid>
             <pubDate>Wed, 24 Feb 2016 00:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Al Qasba, Sharjah.]]></title>
-            <description><![CDATA[<article><h1>Al Qasba, Sharjah.</h1><p>United Arab Emirates. Fall, 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d8516230da4952a51ed86b4085a397bbbe8f10.jpg"></article>]]></description>
-            <link>https://thegrid.ai/wbabich/2010b8e9-abe7-4f71-a95d-68c2e8d1e006/index.html</link>
-            <guid isPermaLink="false">2010b8e9-abe7-4f71-a95d-68c2e8d1e006</guid>
-            <pubDate>Wed, 24 Feb 2016 00:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
