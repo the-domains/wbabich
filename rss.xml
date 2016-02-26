@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 16:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 16:26:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b60abb5-fbd4-491a-8d89-1ea10ce3aa39.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/c661d22b-1752-477e-a3b1-9c4408344d29/index.html</link>
+            <guid isPermaLink="false">c661d22b-1752-477e-a3b1-9c4408344d29</guid>
+            <pubDate>Fri, 26 Feb 2016 16:23:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df6f9bd4-3173-4d03-a211-7d8f8a9da055.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b00e3fa-eb45-4cb7-8f35-f6100854926a.jpg">]]></description>
             <link>https://thegrid.ai/wbabich/8558aa49-5ac5-44f9-94d7-5b2623c2d917/index.html</link>
             <guid isPermaLink="false">8558aa49-5ac5-44f9-94d7-5b2623c2d917</guid>
-            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0e1cc5e-4bda-42cf-afc4-a90f51197654.jpg">]]></description>
-            <link>https://thegrid.ai/wbabich/445e36d3-0da0-48d6-9780-69221cfffba3/index.html</link>
-            <guid isPermaLink="false">445e36d3-0da0-48d6-9780-69221cfffba3</guid>
             <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
         </item>
     </channel>
