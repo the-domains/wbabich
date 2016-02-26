@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 16:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 16:15:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea19af62-8953-4c87-b2ee-ffcd5e51d61c.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/a294e95d-e2b5-4576-95e5-584ac31a2f86/index.html</link>
+            <guid isPermaLink="false">a294e95d-e2b5-4576-95e5-584ac31a2f86</guid>
+            <pubDate>Fri, 26 Feb 2016 16:11:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c740003f-0af2-406d-a869-b0e66078fa17.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New Delhi, India. October, 2012.</h1><p>Traveling in India. October, 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08e9571422d52d3b5b2111dd3c91f74f585a851f.jpg"></article>]]></description>
             <link>https://thegrid.ai/wbabich/90c67de9-7b3b-404b-8df7-cee9e1ea4b74/index.html</link>
             <guid isPermaLink="false">90c67de9-7b3b-404b-8df7-cee9e1ea4b74</guid>
-            <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40adb1b0-8938-4418-8bb5-cc5b50d7b74c.JPG" alt="" title="">]]></description>
-            <link>https://thegrid.ai/wbabich/21bd4007-803f-4d55-bd0b-553c367a4f67/index.html</link>
-            <guid isPermaLink="false">21bd4007-803f-4d55-bd0b-553c367a4f67</guid>
             <pubDate>Wed, 24 Feb 2016 22:38:59 GMT</pubDate>
         </item>
     </channel>
