@@ -4,8 +4,15 @@
         <description><![CDATA[Walker Babich]]></description>
         <link>https://thegrid.ai/wbabich/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 13:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 15:12:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wbabich/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85eadc35-1cee-411b-80e5-d2df8eb603d8.jpg">]]></description>
+            <link>https://thegrid.ai/wbabich/e95f9e3f-4210-48b3-8dff-e44af823e83d/index.html</link>
+            <guid isPermaLink="false">e95f9e3f-4210-48b3-8dff-e44af823e83d</guid>
+            <pubDate>Thu, 03 Mar 2016 15:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b37f94-0869-4381-a203-ec61728357f0.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wbabich/82dfbdb6-998b-4739-a6df-e4195dea14a4/index.html</link>
             <guid isPermaLink="false">82dfbdb6-998b-4739-a6df-e4195dea14a4</guid>
             <pubDate>Fri, 26 Feb 2016 16:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cd150de-7ab1-4ec6-b114-a73a48939aa9.jpg">]]></description>
-            <link>https://thegrid.ai/wbabich/f58a7c90-220c-4421-b074-72e3a296497e/index.html</link>
-            <guid isPermaLink="false">f58a7c90-220c-4421-b074-72e3a296497e</guid>
-            <pubDate>Fri, 26 Feb 2016 15:59:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
